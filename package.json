@@ -1,6 +1,6 @@
 {
-  "homepage": "https://patramonalisa.github.io/QUIZ_App-using-reactjs",
-  "name": "react_quiz_app",
+  "homepage": "https://patramonalisa.github.io/quiz_app",
+  "name": "react_quiz_application",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
